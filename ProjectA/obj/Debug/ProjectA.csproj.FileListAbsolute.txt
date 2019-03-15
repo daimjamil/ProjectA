@@ -7,3 +7,15 @@ C:\Users\USER\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateR
 C:\Users\USER\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.exe
 C:\Users\USER\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.csprojAssemblyReference.cache
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.AddGroup.resources
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.frmPersonInformation.resources
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.frmViewAll.resources
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.cache
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+D:\6th Semester\DBMSLab\2021\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
